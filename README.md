@@ -1,1 +1,1 @@
-[![ElytrA8's github stats](https://github-readme-stats.vercel.app/api?username=ElytrA8&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,141E30,243B55&title_color=fff&text_color=fff)](https://github.com/ElytrA8)  
+[![ElytrA8's github stats](https://github-readme-stats.vercel.app/api?username=ElytrA8?theme=dracula?include_all_commits=true)](https://github.com/ElytrA8)  
